@@ -1,9 +1,10 @@
 # NotesSharing_webApp_NM_FullStackPDjango_Project
 
-Project Developed by:
+Project Developed by: DEVIKA LAL G B
 
 Mention your name
-Regnumber , college name....
+Regnumber :720921244014
+college name....:JCT COLLEGE OF ENGINEERING AND TECHNOLOGY
 
 
 Login credentials:
